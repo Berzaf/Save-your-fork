@@ -70,10 +70,14 @@ section#center article {
 /* Blockquote Styles */
 /* #10a-b filter drop-shadow pg321 */ 
 blockquote {
+   background: url(sf-speech.png)
+   center center / 100% 100% no-repeat;
+   filter: drop-shadow(5px 5px 10px rgb(51, 51, 51));
    
 }
 /* #11 */
 cite img {
+   border-radius: 50%;
     
 }
 

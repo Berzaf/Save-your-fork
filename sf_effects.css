@@ -17,13 +17,16 @@
 
 /* #3 NOTE: instructions mention dropshadows, 
 	not box-shadow pg 286 */
-   body {
-      box-shadow:  
-   }
+body {
+   box-shadow:  
+}
 
 
 /* Navigation Tabs List Styles */
-
+/* #4 */
+body > header nav.tabs {
+   
+}
 
 
 

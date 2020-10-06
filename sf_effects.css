@@ -15,6 +15,11 @@
 
 /* Body Header Styles */
 
+/* #3 NOTE: instructions mention dropshadows, 
+	not box-shadow pg 286 */
+   body {
+      box-shadow:  
+   }
 
 
 /* Navigation Tabs List Styles */

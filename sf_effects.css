@@ -55,12 +55,13 @@ section#left nav.vertical h1 {
 
 }
 
-
-
-
 /* Center Article Styles */
 /* #9a-c */
 section#center article {
+   background: radial-gradient(circle farthest-side, white 30% rgb(151, 151, 151));
+   border: 1px solid rgb(151, 151, 151);
+   border-radius: 50px;
+   box-shadow: rgb(151, 151, 151) 10px 10px 20px;
    
 }
 

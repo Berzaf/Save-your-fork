@@ -31,6 +31,7 @@ body > header nav.tabs {
 }
 /* #5 Makes navs look like tabs pg 315 */
 body > header nav.tabs li {
+   transform: perspective(50px) rotate(20deg);
    
 }
 /* #6 all of selector but :hover in instructions */

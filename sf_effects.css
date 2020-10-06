@@ -31,6 +31,10 @@ body > header nav.tabs {
 body > header nav.tabs li {
    
 }
+/* #6 all of selector but :hover in instructions */
+body > header nav.tabs li:hover {
+   
+}
 
 
 

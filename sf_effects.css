@@ -27,6 +27,10 @@ body {
 body > header nav.tabs {
    
 }
+/* #5 Makes navs look like tabs pg 315 */
+body > header nav.tabs li {
+   
+}
 
 
 
